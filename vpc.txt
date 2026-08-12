@@ -1,2 +1,4 @@
 virtual private cloud
 virtual private cloud isa eature of aws
+it is used for networking 
+
