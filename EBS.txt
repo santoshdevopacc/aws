@@ -1,1 +1,2 @@
 ebs is a aws feature
+it is added storage to instance
