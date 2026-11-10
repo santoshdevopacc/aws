@@ -1,2 +1,4 @@
-ebs is a aws feature.
+ebs is a aws feature
+it is added storage to instance
+we can extend ebs volumes
 
